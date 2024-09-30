@@ -1,7 +1,7 @@
 .LoaderDiv svg {
   display: block;
   margin-top: 200px;
-  margin-left:auto;
+  margin-left: auto;
   margin-right: auto;
 }
 
@@ -9,7 +9,7 @@
   display: inline-block;
   height: 200px;
   width: 150px;
-  margin:10px;
+  margin: 10px;
   border: 1px solid black;
   border-radius: 10px;
   text-align: center;
@@ -17,15 +17,15 @@
 }
 
 .poison {
-  color:#88447a;
+  color: #88447a;
 }
 
 .grass {
-  color:#5cb737;
+  color: #5cb737;
 }
 
 .fire {
-  color:#d52100;
+  color: #d52100;
 }
 
 .electric {
@@ -37,7 +37,7 @@
 }
 
 .water {
-  color:#0080ff;
+  color: #0080ff;
 }
 
 .flying {
@@ -45,11 +45,11 @@
 }
 
 .bug {
-  color:#83901a;
+  color: #83901a;
 }
 
 .fighting {
-  color: #a84d3d
+  color: #a84d3d;
 }
 
 .ground {
@@ -85,9 +85,8 @@
 }
 
 .fairy {
-  color: #e76de7; 
+  color: #e76de7;
 }
-
 
 .pokemon-item-details-number {
   font-size: 14px;
@@ -100,6 +99,7 @@
   display: inline-block;
 }
 
-.filterTypes-item input, .filterTypes-item label {
-  margin:5px;
+.filterTypes-item input,
+.filterTypes-item label {
+  margin: 5px;
 }
