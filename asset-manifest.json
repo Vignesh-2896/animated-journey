@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animated-journey/static/css/main.1fa66864.css",
+    "main.js": "/animated-journey/static/js/main.ebbde6fe.js",
+    "index.html": "/animated-journey/index.html",
+    "main.1fa66864.css.map": "/animated-journey/static/css/main.1fa66864.css.map",
+    "main.ebbde6fe.js.map": "/animated-journey/static/js/main.ebbde6fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa66864.css",
+    "static/js/main.ebbde6fe.js"
+  ]
+}
