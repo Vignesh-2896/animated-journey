@@ -1,6 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+function typesCaps(type) {
+  return type.charAt(0).toUpperCase() + type.slice(1);
+}
+
 function PokemonItem(props) {
   return (
     <div className="pokemon-item">
@@ -17,7 +21,7 @@ function PokemonItem(props) {
               style={{ fontSize: "16px", display: "inline", margin: "2px" }}
               className={item.type["name"]}
             >
-              {item.type["name"]}
+              {typesCaps(item.type["name"])}
             </h3>
           );
         })}
